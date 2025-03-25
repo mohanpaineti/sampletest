@@ -1,5 +1,5 @@
-import panda as pd
+import pandas as pd
 
-df = pd.read_csv("data.csv)
+df = pd.read_csv("path_to_your_file/data.csv")
 
-prin(df)
+print(df)
